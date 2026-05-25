@@ -1,13 +1,4 @@
-pycache/
-.ipynb_checkpoints/
-*.log
-*.xlsx
-.
-.
-.
-.
-%%writefile .gitignore
-pycache/
+__pycache__/
 .ipynb_checkpoints/
 *.log
 *.xlsx
