@@ -29,7 +29,7 @@ tp-resultados-deportivos/
 │   └── analisis_deportivo.py
 ├── resultados/
 │   ├── analisis_deportivo.png
-│   └── tabla_posiciones.csv
+│   
 ├── README.md
 └── .gitignore
 
