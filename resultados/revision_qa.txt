@@ -1,0 +1,12 @@
+REVISIÓN QA - P3 LUIS
+======================
+Revisor: Gabriel Hernandez / Benjamin Acosta
+Fecha: Mayo 2026
+
+RESULTADO DE LA REVISIÓN:
+- Script ejecutado correctamente en Google Colab
+- Dataset cargado sin errores
+- Tabla de posiciones generada correctamente
+- Gráfico exportado en alta resolución
+- Rutas relativas correctamente implementadas
+- Código aprobado para merge
