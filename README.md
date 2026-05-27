@@ -29,6 +29,7 @@ tp-resultados-deportivos/
 │   └── analisis_deportivo.py
 ├── resultados/
 │   ├── analisis_deportivo.png
+│   └── revision_qa.txt
 │   
 ├── README.md
 └── .gitignore
@@ -46,3 +47,10 @@ tp-resultados-deportivos/
 - Google Colab
 - Git / GitHub
 - Jira
+
+## Revisión QA - P3 Luis
+- Script ejecutado y verificado correctamente en Google Colab
+- Dataset cargado sin errores
+- Tabla de posiciones generada correctamente
+- Gráfico exportado en alta resolución
+- Archivo resultados/revision_qa.txt agregado con el detalle de la revisión
